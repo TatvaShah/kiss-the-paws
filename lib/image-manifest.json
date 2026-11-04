@@ -1,0 +1,172 @@
+{
+ "/images/before-groom.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/before-groom.b698ddff20",
+  "stamp": "b698ddff20"
+ },
+ "/images/before-vivian.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/before-vivian.306c5dc9a3",
+  "stamp": "306c5dc9a3"
+ },
+ "/images/breed-cuts.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/breed-cuts.fc07703a41",
+  "stamp": "fc07703a41"
+ },
+ "/images/cat-nails.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/cat-nails.8c297b3862",
+  "stamp": "8c297b3862"
+ },
+ "/images/first-visit-offer.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/first-visit-offer.5c973a6e3f",
+  "stamp": "5c973a6e3f"
+ },
+ "/images/fresh-groom.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/fresh-groom.761a6543a0",
+  "stamp": "761a6543a0"
+ },
+ "/images/logo.jpg": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.da8ad2ae7f",
+  "stamp": "da8ad2ae7f"
+ },
+ "/images/long-coat.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/long-coat.75d7fb2f1d",
+  "stamp": "75d7fb2f1d"
+ },
+ "/images/matilda.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/matilda.f9d0cea968",
+  "stamp": "f9d0cea968"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.c48639bb34",
+  "stamp": "c48639bb34"
+ },
+ "/images/vivian.jpg": {
+  "w": 1080,
+  "h": 1080,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/vivian.ef5d5c963d",
+  "stamp": "ef5d5c963d"
+ }
+}
